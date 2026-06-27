@@ -55,6 +55,7 @@ export default function Dashboard() {
       {/* Header */}
       <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
         <div>
+          <p className="text-green-400 text-xs font-semibold uppercase tracking-widest mb-1">Samuel&apos;s Command Center</p>
           <div className="flex items-center gap-2 mb-1">
             {editingName ? (
               <div className="flex gap-2">

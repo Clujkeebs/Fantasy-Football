@@ -84,8 +84,8 @@ export default function Sidebar() {
             <Trophy size={20} className="text-white" />
           </div>
           <div>
-            <div className="text-sm font-bold text-white leading-none">Fantasy</div>
-            <div className="text-xs text-amber-400 font-semibold">WIN $400</div>
+            <div className="text-sm font-bold text-white leading-none">Samuel&apos;s FF</div>
+            <div className="text-xs text-amber-400 font-semibold">WIN $400 💰</div>
           </div>
         </div>
 

@@ -6,8 +6,8 @@ import Sidebar from '@/components/Sidebar'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Fantasy Football Winner — Win That $400',
-  description: 'Data-driven fantasy football assistant: draft, trades, waiver wire, lineup, playoffs.',
+  title: "Samuel's Fantasy Football — Win That $400",
+  description: "Samuel's personal fantasy football command center: draft, trades, waiver wire, lineup optimizer, and playoff tracker.",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

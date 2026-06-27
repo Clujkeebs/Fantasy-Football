@@ -11,7 +11,7 @@ const KEYS = {
 }
 
 export const DEFAULT_LEAGUE: LeagueSettings = {
-  name: 'My Fantasy League',
+  name: "Samuel's League",
   size: 12,
   scoringFormat: 'ppr',
   playoffWeeks: [15, 16, 17],
